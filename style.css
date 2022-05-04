@@ -175,7 +175,7 @@
 }
 
 .box2 {
-    background-image: url(./assets/pac-man.png);
+    background-image: url(./assets/jogo-velha.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -189,14 +189,7 @@
 }
 
 .box4 {
-    background-image: url(./assets/traffic-light.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.box5 {
-    background-image: url(./assets/my-portfolio.png);
+    background-image: url(./assets/pac-man.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
