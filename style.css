@@ -100,10 +100,10 @@
 
 .language-img-container {
     display: grid;
-    grid-template: auto / auto auto auto;
+    grid-template: auto / auto auto auto auto;
     align-content: center;
     justify-items: space-around;
-    height: 350px;
+    height: 320px;
 }
 
 
@@ -113,6 +113,7 @@
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
+    width: 200px;
 }
 
 .lang-img:hover {
