@@ -5,4 +5,3 @@ window.onscroll = () =>{
     document.getElementById('arrow-btn').style.display = 'none';
   }
 }
-

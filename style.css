@@ -169,28 +169,7 @@
 }
 
 .box1 {
-    background-image: url(./assets/lucky-number.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.box2 {
-    background-image: url(./assets/jogo-velha.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.box3 {
-    background-image: url(./assets/nails.png);
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-}
-
-.box4 {
-    background-image: url(./assets/pac-man.png);
+    background-image: url(./assets/board.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
